@@ -9,10 +9,8 @@ Comming soon
 ## Usage
 Comming soon
 ## Support
-Ask for help, suggest a feauture, learn the basics or maby just have a good time in my:
-[Discord Server](https://discord.gg/RfgA6wqzZP)
-Or, add me on:
-[Steam](https://steamcommunity.com/profiles/76561198344765754)
+Ask for help, suggest a feauture, learn the basics or maby just have a good time in my [Discord Server](https://discord.gg/RfgA6wqzZP).
+Or add me on [Steam](https://steamcommunity.com/profiles/76561198344765754).
 ## Credits
 Disquse - Inspiration
 Pevkele - Testing
