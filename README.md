@@ -5,7 +5,7 @@ One of the first universal UI menu created for [Team Fortress 2](https://store.s
 2. Extract the files
 3. Open caveclient-master
 4. Here you will find a file called "tf"
-5. Now find the "common" file on your computer. (Should look something like this: ...\Steam\steamapps\common\Team Fortress 2\tf\cfg
+5. Now find the "common" file on your computer. (Should look something like this: ...\Steam\steamapps\common)
 6. Here you will also see a "Team Fortress 2" folder. Now simply take the "tf" folder from caveclient-master, drag & drop it over the "Team Fortress 2" folder.
 7. And you're done. (If this doesn't do it, then join my [Discord Server](https://discord.gg/RfgA6wqzZP) for more support)
 ## Video Guide
