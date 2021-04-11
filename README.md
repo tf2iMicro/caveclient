@@ -1,21 +1,21 @@
-# Caveclient
-One of the first universal UI menu created for [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) dedicated to make your game experience easier.
-## Installation
-1. Download the client
-2. Extract the files
-3. Open caveclient
-4. Here you will find a file called "tf"
-5. Now find the "common" file on your computer. (Should look something like this: ...\Steam\steamapps\common)
-6. Here you will also see a "Team Fortress 2" folder. Now simply take the "tf" folder from caveclient-master, drag & drop it over the "Team Fortress 2" folder.
-7. And you're done. (If this doesn't do it, then join my [Discord Server](https://discord.gg/RfgA6wqzZP) for more support)
-## Video Guide
-Not out yet
-## How it works
-The technique I used was to display the console output on to the game screen. This can be done via using the ```developer``` command. (0 = off | 1 = on) From here I use the ```echo``` command to display the text I want, then I use binds to redirect the menu to another echo menu. I use the command ```clear``` to clear the old menu.
-## Support
-Do you need help regarding caveclient? Or maybe you want to suggest a feature? Go ahead and ask in my [Discord Server](https://discord.gg/RfgA6wqzZP).
-You can also add me on [Steam](https://steamcommunity.com/profiles/76561198344765754).
+## Caveclient
+A Team Fortress 2 UI built from the ground up using console commands.
+
+## Installation, Customization, etc
+https://github.com/tf2iMicro/caveclient/wiki
+
+### Notes Regarding Caveclient Customization
+- When adding custom commands, or changing features in the menu, you should have a clue of how it all works. Read more about that on the wiki.
+- Due to my lack of experience, this menu isn't fully optimized. Something that can result in fps drop while using the menu. However, I'm still working on optimizing it to it's fullest extent!
+
+## Links:
+* Discord: https://discord.gg/RfgA6wqzZP
+* Screenshots: 
+* Steam: https://steamcommunity.com/profiles/76561198344765754
+
 ## Credits
 * iMicro - Creator
-* Disquse - Inspiration
-* fredalex - Suggestions
+* Disquse - Inspiration & help
+
+## Screenshots
+Screenshots can be viewed here: 
