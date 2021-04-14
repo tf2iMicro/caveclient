@@ -1,4 +1,4 @@
-## Caveclient
+# Caveclient
 A Team Fortress 2 UI built from the ground up using console commands.
 
 ## Installation, Customization, etc
