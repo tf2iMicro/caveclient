@@ -2,7 +2,7 @@
 <img align="right" alt="Caveclient logo" width="100" src="https://i.imgur.com/76xMlbFl.png">
 
 # Caveclient
-A better [tf2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience
+A better [tf2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience!
 
 ## Installation, Customization, etc
 https://github.com/tf2iMicro/caveclient/wiki
