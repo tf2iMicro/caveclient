@@ -1,5 +1,5 @@
 
-<img align="right" alt="mastercomfig logo" width="100" src="https://mastercomfig.com/img/mastercomfig_logo.svg">
+<img align="right" alt="mastercomfig logo" width="100" src="https://i.imgur.com/76xMlbFl.png">
 
 # Caveclient
 A better [tf2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience
