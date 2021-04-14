@@ -1,5 +1,5 @@
 # Caveclient
-A Team Fortress 2 UI built from the ground up using console commands.
+A better tf2 experience
 
 ## Installation, Customization, etc
 https://github.com/tf2iMicro/caveclient/wiki
