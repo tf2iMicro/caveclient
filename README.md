@@ -5,6 +5,7 @@
 A better [tf2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience!
 
 ## Installation, Customization, etc
+For guides on installation & customization, please visit the caveclient wiki.
 https://github.com/tf2iMicro/caveclient/wiki
 
 ### Notes Regarding Caveclient Customization
