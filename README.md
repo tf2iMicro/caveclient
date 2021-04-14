@@ -10,7 +10,7 @@ https://github.com/tf2iMicro/caveclient/wiki
 
 ## Links:
 * Discord: https://discord.gg/RfgA6wqzZP
-* Screenshots: 
+* Screenshots: https://imgur.com/a/dsjLWsd
 * Steam: https://steamcommunity.com/profiles/76561198344765754
 
 ## Credits
@@ -19,3 +19,4 @@ https://github.com/tf2iMicro/caveclient/wiki
 
 ## Screenshots
 Screenshots can be viewed here: 
+https://imgur.com/a/dsjLWsd
