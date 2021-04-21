@@ -12,7 +12,7 @@ For guides on installation & customization, please visit the [wiki](https://gith
 - Due to my lack of experience, this menu isn't fully optimized. Something that can result in fps drop while using the menu. However, I'm still working on optimizing it to it's fullest extent!
 
 ## Links:
-* [Discord](https://discord.gg/RfgA6wqzZP
+* [Discord](https://discord.gg/RfgA6wqzZP)
 * [Screenshots](https://imgur.com/a/dsjLWsd)
 * [Steam](https://steamcommunity.com/profiles/76561198344765754)
 
