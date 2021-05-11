@@ -1,5 +1,5 @@
 
-<img align="right" alt="Caveclient logo" width="100" src="https://i.imgur.com/76xMlbFl.png">
+<img align="right" alt="Caveclient logo" width="100" src="https://i.imgur.com/QIix2xE.png">
 
 # Caveclient
 A better [TF2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience!
