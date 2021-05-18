@@ -1,0 +1,17 @@
+# These files are text files
+# user files
+*.cfg text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.res text eol=lf
+
+# dev files
+*.sh text eol=lf
+*.yml text eol=lf
+*.css text eol=lf
+.git* text eol=lf
+
+# These are not
+*.jpg -text
+*.png -text
+*.ico -text
